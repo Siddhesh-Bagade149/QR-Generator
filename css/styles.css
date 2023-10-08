@@ -115,7 +115,7 @@ header {
     background-color: #0f172a;
     color: aliceblue;
     font-weight: 600;
-    width: 50%;
+    width: 40%;
     height: 30px;
     border-radius: 7px;
     cursor: pointer;
@@ -151,6 +151,9 @@ header {
     }
     .container{
         width: 70%;
+    }
+    #dnldBtn{
+        width:50%;
     }
   }
 @media screen and (min-width: 720px) {
